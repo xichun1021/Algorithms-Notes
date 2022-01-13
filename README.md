@@ -1,3 +1,21 @@
+# Algorithm
+
+| Algorithm | Specific Type | Related LeetCode Test | Related Article |
+| --------- | --------------|-----------------------|-----------------|
+|           | Bubble Sort | TBC |TBC |
+|           | Selection Sort | TBC |TBC |
+| Sorting Algorithm | Insertion Sort | LeetCode 147 Insertion Sort | [Notes](#jump1) |
+|           | Hill Shell Sort | TBC |TBC |
+|           | Quick Sort | TBC |TBC |
+|           | Merge Sort | TBC |TBC |
+|           | Heap Sort | TBC |TBC |
+|           | Linear Sorting Algorithm | TBC |TBC |
+
+
+
+<span id = "jump1">
+    
+
 # Insertion Sort Algorithm
 When you play the card games, actually you are doing insertion sort.
 
